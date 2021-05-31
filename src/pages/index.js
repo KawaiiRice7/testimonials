@@ -12,6 +12,7 @@ import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 
 import './index.css';
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 export default () => {    
   const [status, setStatus ] = useState('loading...');    
